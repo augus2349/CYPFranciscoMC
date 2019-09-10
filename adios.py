@@ -1,1 +1,1 @@
-print("vamonos perras")
+print("murio XD")
