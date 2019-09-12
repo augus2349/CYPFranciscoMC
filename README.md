@@ -1,7 +1,7 @@
 # Francisco Augusto Machorro Chavez
 ## Computadoras y Programacion grupo 1157
 ## Semestre 2020-1
-![logo Fes Aragon](fesa.jpg)
+![logo Fes Aragon](Fesa.jpg)
 
 Aqui va una descripcion del repositorio
 - elemento 1
