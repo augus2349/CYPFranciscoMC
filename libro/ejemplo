@@ -1,0 +1,5 @@
+NUM = int(input("dame un numero entero"))
+CUA = NUM * NUM
+CUB = NUM ** 3
+print("el cuadrado de { NUM } es { CUA } ")
+print("el cubo de { NUM } es { CUB } ")
