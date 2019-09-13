@@ -1,0 +1,5 @@
+A = input("ingrese el valor de A: ")
+B = input("ingrese el valor de B: ")
+C = input("ingrese el valor de C: ")
+D = input("ingrese el valor de D: ")
+print(D,C,B,A)
