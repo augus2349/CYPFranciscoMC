@@ -5,7 +5,7 @@ for indice in range(0,13,1):
     print(f" mes {indice+1} en region norte={lluvias_norte[indice]}")
 
 print(lluvias_norte[4])
-print(lluvias_norte[:5:])
+print(lluvias_norte[0:5:])
 
 sueldo =  []
 for indice in range(7):
