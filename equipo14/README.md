@@ -6,6 +6,6 @@
 
 ### Programas:
 
-1. Descripcion del programa 1
-2. Descripción del programa 2
-3. Descripción del programa 3
+1. calcular diferentes aspectos de costos de produccion de una empresa
+2. Calcular la ecuacion seleccionada dando el valor de X
+3. calculadora de dos variables de tipo entero
